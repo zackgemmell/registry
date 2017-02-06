@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wie man Falafel-macht"
+title:  "Wie man Falafel macht"
 ref: falafel
 date:   2017-01-01 12:00:0 -0800
 categories: recipes

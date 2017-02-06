@@ -5,13 +5,13 @@
     <description>Écrivez une super description de votre nouveau site ici. Vous pouvez modifier cette ligne dans _config.yml. Elle apparaîtra dans la balise meta description (pour les résultats sur Google) et dans le fil RSS feed.xml.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/flux.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Feb 2017 19:05:33 -0800</pubDate>
-    <lastBuildDate>Sun, 05 Feb 2017 19:05:33 -0800</lastBuildDate>
+    <pubDate>Sun, 05 Feb 2017 19:42:08 -0800</pubDate>
+    <lastBuildDate>Sun, 05 Feb 2017 19:42:08 -0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
     
       <item>
-        <title>Wie man Falafel-macht</title>
+        <title>Wie man Falafel macht</title>
         <description>&lt;p&gt;Cet article se situe dans le dossier &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt;. Allez l’éditer, et générez votre site à nouveau pour voir les modifications. Vous pouvez générer le site de différentes façons, mais le plus efficace est de lancer la commande &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, qui crée un serveur web et génère automatiquement votre site à chaque fois qu’un fichier est modifié.&lt;/p&gt;
 
 &lt;p&gt;Pour ajouter un autre article, créez un nouveau fichier dans le dossier &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; dont le nom contient la date de la façon suivante : &lt;code class=&quot;highlighter-rouge&quot;&gt;AAAA-MM-JJ-nom-de-l-article.ext&lt;/code&gt; et placez-y l’entête.  includes the necessary front matter. Regardez le code source de cet article pour avoir une bonne idée de la façon dont cela fonctionne.&lt;/p&gt;
