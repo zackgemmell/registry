@@ -3,28 +3,28 @@
   
     
       <url>
-        <loc>/jekyll/update/2016/02/29/welcome-to-jekyll.html</loc>
+        <loc>/recipes/wie-man-falafel-macht</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="en" href="/jekyll/update/2016/02/29/welcome-to-jekyll.html" />
+          <xhtml:link rel="alternate" hreflang="de" href="/recipes/wie-man-falafel-macht" />
         
-          <xhtml:link rel="alternate" hreflang="fr" href="/jekyll/update/2016/02/29/bienvenue-sur-jekyll.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="/recipes/how-to-make-falafel" />
         
-        <lastmod>2016-02-29T00:48:44-08:00</lastmod>
+        <lastmod>2017-01-01T12:00:00-08:00</lastmod>
         <changefreq>weekly</changefreq>
       </url>
     
   
     
       <url>
-        <loc>/jekyll/update/2016/02/29/bienvenue-sur-jekyll.html</loc>
+        <loc>/recipes/how-to-make-falafel</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="en" href="/jekyll/update/2016/02/29/welcome-to-jekyll.html" />
+          <xhtml:link rel="alternate" hreflang="de" href="/recipes/wie-man-falafel-macht" />
         
-          <xhtml:link rel="alternate" hreflang="fr" href="/jekyll/update/2016/02/29/bienvenue-sur-jekyll.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="/recipes/how-to-make-falafel" />
         
-        <lastmod>2016-02-29T00:48:44-08:00</lastmod>
+        <lastmod>2017-01-01T12:00:00-08:00</lastmod>
         <changefreq>weekly</changefreq>
       </url>
     
@@ -32,25 +32,10 @@
   
     
       <url>
-        <loc>/a-propos.html</loc>
+        <loc>/a-propos</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="fr" href="/a-propos.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/about/" />
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
-        <loc>/about/</loc>
-        
-        
-          <xhtml:link rel="alternate" hreflang="fr" href="/a-propos.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/about/" />
+          <xhtml:link rel="alternate" hreflang="fr" href="/a-propos" />
         
         <changefreq>weekly</changefreq>
       </url>
@@ -58,10 +43,10 @@
   
     
       <url>
-        <loc>/accueil.html</loc>
+        <loc>/de</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="fr" href="/accueil.html" />
+          <xhtml:link rel="alternate" hreflang="de" href="/de" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/" />
         
@@ -92,18 +77,9 @@
         <loc>/</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="fr" href="/accueil.html" />
+          <xhtml:link rel="alternate" hreflang="de" href="/de" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/" />
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
-        <loc>/css/main.css</loc>
-        
         
         <changefreq>weekly</changefreq>
       </url>
