@@ -6,22 +6,10 @@ date:   2017-01-01 12:00:0 -0800
 categories: recipes
 lang: de
 ---
-Cet article se situe dans le dossier `_posts`. Allez l'éditer, et générez votre site à nouveau pour voir les modifications. Vous pouvez générer le site de différentes façons, mais le plus efficace est de lancer la commande `jekyll serve`, qui crée un serveur web et génère automatiquement votre site à chaque fois qu'un fichier est modifié.
 
-Pour ajouter un autre article, créez un nouveau fichier dans le dossier `_posts` dont le nom contient la date de la façon suivante : `AAAA-MM-JJ-nom-de-l-article.ext` et placez-y l'entête.  includes the necessary front matter. Regardez le code source de cet article pour avoir une bonne idée de la façon dont cela fonctionne.
 
-Jekyll permet aussi d'intégrer des extraits de code :
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a ultrices sapien, et accumsan velit. Curabitur sed enim id orci viverra gravida. Nam venenatis sapien erat, eu tincidunt est dictum sit amet. Nullam semper ante vitae nisl rutrum vestibulum. Morbi fringilla iaculis accumsan. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec luctus eget metus et fringilla. Curabitur libero arcu, dictum eu tellus id, tristique placerat lacus. Donec ornare efficitur lacus, ut pellentesque tellus vestibulum quis. Nam auctor nisl eu mauris scelerisque convallis facilisis ut sapien. Nulla facilisi.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Bonjour, #{name}"
-end
-print_hi('Tom')
-#=> affiche 'Bonjour, Tom' sur STDOUT.
-{% endhighlight %}
+Morbi volutpat sodales metus ac imperdiet. Phasellus id tortor eu eros bibendum pulvinar vitae et purus. In hac habitasse platea dictumst. Fusce pretium ipsum non libero placerat, sed ullamcorper felis laoreet. In bibendum aliquam congue. Sed eget eros ac velit placerat posuere a non tellus. Mauris dui enim, suscipit et ullamcorper a, posuere sit amet nulla. Suspendisse potenti. Morbi id leo nunc. Maecenas auctor efficitur lobortis. Mauris malesuada nunc placerat odio aliquet dapibus.
 
-Jetez un coup d'oeil à la [documentation de Jekyll][jekyll-docs] pour en savoir plus sur ce qu'il vous est possible de faire avec Jekyll. Tous les bugs et demandes de fonctionnalités doivent être envoyés sous forme de requête sur [GitHub][jekyll-gh]. Si vous avez des questions, allez les poser sur le [fil d'aide de Jekyll][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Suspendisse mollis augue sit amet dictum euismod. Ut pulvinar orci vel nisi mattis laoreet. Curabitur et arcu non leo molestie maximus vitae eget orci. Donec eros nulla, feugiat et aliquet vitae, luctus at lectus. Fusce dignissim ex lectus, sit amet eleifend mauris ullamcorper vel. Nulla vel mi justo. Phasellus elementum purus faucibus ex lacinia, viverra cursus felis varius. Vivamus sed eros vel diam tincidunt ornare et vitae libero. In id vehicula dui, hendrerit accumsan risus. Suspendisse potenti.

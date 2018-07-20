@@ -6,22 +6,10 @@ date:   2017-01-01 12:00:0 -0800
 categories: recipes
 lang: en
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a ultrices sapien, et accumsan velit. Curabitur sed enim id orci viverra gravida. Nam venenatis sapien erat, eu tincidunt est dictum sit amet. Nullam semper ante vitae nisl rutrum vestibulum. Morbi fringilla iaculis accumsan. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec luctus eget metus et fringilla. Curabitur libero arcu, dictum eu tellus id, tristique placerat lacus. Donec ornare efficitur lacus, ut pellentesque tellus vestibulum quis. Nam auctor nisl eu mauris scelerisque convallis facilisis ut sapien. Nulla facilisi.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Morbi volutpat sodales metus ac imperdiet. Phasellus id tortor eu eros bibendum pulvinar vitae et purus. In hac habitasse platea dictumst. Fusce pretium ipsum non libero placerat, sed ullamcorper felis laoreet. In bibendum aliquam congue. Sed eget eros ac velit placerat posuere a non tellus. Mauris dui enim, suscipit et ullamcorper a, posuere sit amet nulla. Suspendisse potenti. Morbi id leo nunc. Maecenas auctor efficitur lobortis. Mauris malesuada nunc placerat odio aliquet dapibus.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Suspendisse mollis augue sit amet dictum euismod. Ut pulvinar orci vel nisi mattis laoreet. Curabitur et arcu non leo molestie maximus vitae eget orci. Donec eros nulla, feugiat et aliquet vitae, luctus at lectus. Fusce dignissim ex lectus, sit amet eleifend mauris ullamcorper vel. Nulla vel mi justo. Phasellus elementum purus faucibus ex lacinia, viverra cursus felis varius. Vivamus sed eros vel diam tincidunt ornare et vitae libero. In id vehicula dui, hendrerit accumsan risus. Suspendisse potenti.

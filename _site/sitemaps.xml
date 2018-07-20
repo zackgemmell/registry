@@ -59,6 +59,18 @@
         <loc>/feed.xml</loc>
         
         
+          <xhtml:link rel="alternate" hreflang="fr" href="/a-propos" />
+        
+          <xhtml:link rel="alternate" hreflang="de" href="/de" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="de" href="/flux.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="" href="/sitemaps.xml" />
+        
         <changefreq>weekly</changefreq>
       </url>
     
@@ -67,6 +79,18 @@
       <url>
         <loc>/flux.xml</loc>
         
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/a-propos" />
+        
+          <xhtml:link rel="alternate" hreflang="de" href="/de" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="de" href="/flux.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="" href="/sitemaps.xml" />
         
         <changefreq>weekly</changefreq>
       </url>
@@ -89,6 +113,18 @@
       <url>
         <loc>/sitemaps.xml</loc>
         
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/a-propos" />
+        
+          <xhtml:link rel="alternate" hreflang="de" href="/de" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="de" href="/flux.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="" href="/sitemaps.xml" />
         
         <changefreq>weekly</changefreq>
       </url>
